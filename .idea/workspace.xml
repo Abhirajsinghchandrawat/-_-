@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e0f7044-be9c-43e6-8a3a-2def7449a674" name="Changes" comment="bmi calculator oibsip_taskno2">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8e0f7044-be9c-43e6-8a3a-2def7449a674" name="Changes" comment="bmi_calculator oibsip_taskno2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,29 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;main&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Abhirajsinghchandrawat&quot;
+    },
+    {
+      &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="328f6e00-d4c8-437c-8b1f-7b74aad82597" />
+        <option name="url" value="https://github.com/Abhirajsinghchandrawat/oibsip_task" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -93,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711450239398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bmi calculator oibsip_taskno2">
+      <option name="closed" value="true" />
+      <created>1711458225911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458225911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bmi_calculator oibsip_taskno2">
+      <option name="closed" value="true" />
+      <created>1711458329960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458329960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bmi calculator oibsip_taskno2" />
-    <option name="LAST_COMMIT_MESSAGE" value="bmi calculator oibsip_taskno2" />
+    <MESSAGE value="bmi_calculator oibsip_taskno2" />
+    <option name="LAST_COMMIT_MESSAGE" value="bmi_calculator oibsip_taskno2" />
   </component>
 </project>
