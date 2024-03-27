@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.oibsip_taskno1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oibsip_taskno2py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chandrawat/PycharmProjects/BMICalculator&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.oibsip_taskno1.executor": "Run",
+    "Python.oibsip_taskno2py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "oibsip__taskno2",
+    "last_opened_file_path": "C:/Users/Chandrawat/PycharmProjects/BMICalculator"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="oibsip_taskno2py" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="BMICalculator" />
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711556113091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bmi_calculator oibsip_taskno2">
+      <option name="closed" value="true" />
+      <created>1711556147877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711556147879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
